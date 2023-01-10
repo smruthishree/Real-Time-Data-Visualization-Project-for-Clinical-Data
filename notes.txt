@@ -1,17 +1,16 @@
 Possible reasons for lag in Shiny apllication:
 
-        Poor performance of the server: If the server that is hosting the Shiny app is underpowered or overloaded, it may not be able to handle the load of the                                         app and this may result in delays or lag.
+    Poor performance of the server: If the server that is hosting the Shiny app is underpowered or overloaded, it may not be able to handle the load of the app and this may result in delays or lag.
 
-    Heavy computations: If the app is performing heavy computations or complex data processing, this can also cause delays or lag. One way to reduce this is to                         use caching to store the results of the computations and re-use them as needed, rather than re-computing them every time the app is run.
+    Heavy computations: If the app is performing heavy computations or complex data processing, this can also cause delays or lag. One way to reduce this is to use caching to store the results of the computations and re-use them as needed, rather than re-computing them every time the app is run.
 
-    Large data: if the app has to handle large data, this can also slow down the performance of the app. A way to reduce this is to sample the data or to filter                 it before using it.
+    Large data: if the app has to handle large data, this can also slow down the performance of the app. A way to reduce this is to sample the data or to filter it before using it.
 
-    Network traffic: If the app is hosted on a remote server and there is a lot of network traffic between the server and the client, this can also cause delays                      or lag.
+    Network traffic: If the app is hosted on a remote server and there is a lot of network traffic between the server and the client, this can also cause delays or lag.
 
-    JavaScript execution: Shiny app heavily relies on JavaScript for communication and visualizations. If there is any issue with JavaScript execution or                                 compatibility issue with the browser can cause delays.
+    JavaScript execution: Shiny app heavily relies on JavaScript for communication and visualizations. If there is any issue with JavaScript execution or compatibility issue with the browser can cause delays.
 
-    Debugging: If you have a lot of print statements or browser dev-tools open, it can cause delays as it is running a lot of extra code that may slow down the                app.
-
+    Debugging: If you have a lot of print statements or browser dev-tools open, it can cause delays as it is running a lot of extra code that may slow down the app.
 
 Troubleshooting leads:
 
