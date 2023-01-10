@@ -1,4 +1,4 @@
-Possible reasons for lag in Shiny apllication:
+###Possible reasons for lag in Shiny apllication:
 
     Poor performance of the server: If the server that is hosting the Shiny app is underpowered or overloaded, it may not be able to handle the load of the app and this may result in delays or lag.
 
@@ -12,7 +12,7 @@ Possible reasons for lag in Shiny apllication:
 
     Debugging: If you have a lot of print statements or browser dev-tools open, it can cause delays as it is running a lot of extra code that may slow down the app.
 
-Troubleshooting leads:
+###Troubleshooting leads:
 
     Profile the performance of the app using the profvis package to identify which parts of the app are taking the most time to run.
     Monitor the CPU and memory usage of the server to see if it is overloaded.
