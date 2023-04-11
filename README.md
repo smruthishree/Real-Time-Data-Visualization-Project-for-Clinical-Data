@@ -5,8 +5,11 @@ Welcome to the Real-Time Data Visualization Project for Clinical Data GitHub rep
 Tool used:
 
 R
+<br>
 Shiny
+<br>
 MySQL server
+<br>
 REDCap ETL
 
 
