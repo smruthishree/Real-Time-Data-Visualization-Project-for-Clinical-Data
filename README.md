@@ -1,6 +1,6 @@
 # clinical-data-visualisation
 
-Welcome to the Real-Time Data Visualization Project for Clinical Data GitHub repository! This project is designed to provide real-time visualizations of clinical data using R, Shiny, MySQL, and REDCap ETL. 
+This project is designed to provide real-time visualizations of clinical data. 
 
 Tool used:
 
