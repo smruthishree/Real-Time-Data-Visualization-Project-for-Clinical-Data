@@ -38,4 +38,3 @@ https://github.com/IUREDCap/redcap-etl
 
 
 
-This Shiny app was developed by Smruthishree Srinivasa.
